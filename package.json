@@ -1,0 +1,22 @@
+{
+  "name": "my-first-node-project",
+  "version": "1.0.0",
+  "description": "\"This is my first node project\"",
+  "main": "npm init -y",
+  "scripts": {
+    "test": "touch index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canourrea23/My-first-node-project.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Carolina Urrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canourrea23/My-first-node-project/issues"
+  },
+  "homepage": "https://github.com/canourrea23/My-first-node-project#readme"
+}
